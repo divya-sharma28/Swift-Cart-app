@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">beproject</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Set a Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="err_name">Please enter your name</string>
+    <string name="err_email">Please enter correct email address</string>
+    <string name="err_password">Please set a strong password</string>
+
+    <string name="welcome">Welcome!</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+
+</resources>

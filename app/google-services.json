@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "997102662062",
+    "project_id": "swiftcart-f2479",
+    "storage_bucket": "swiftcart-f2479.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997102662062:android:406e76edd706959bba183f",
+        "android_client_info": {
+          "package_name": "com.example.beproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997102662062-8mjcrrb6tnvdiq1q0fgscs5r7elb9k7c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.beproject",
+            "certificate_hash": "762b3035b09682df8b8824e4af7eb7f04c437c1f"
+          }
+        },
+        {
+          "client_id": "997102662062-d5rjhoh4vfj3s5l2kq8nsq33fupmvi8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFswNxo2PQYfgx8KOvqNcU88jbDKvzeeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997102662062-d5rjhoh4vfj3s5l2kq8nsq33fupmvi8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
